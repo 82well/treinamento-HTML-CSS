@@ -27,11 +27,11 @@ Entender as tags de html:
 
 |Tags|Funcionalidade|
 |---|---|
-|\<html>\</html>||
-|\<head>\</head>||
+|\<html>\</html>| Representa a raiz do documentontos HTML.|
+|\<head>\</head>| Onde se coloca informações do documento que serão interpretadas pelo navegador (metadados). |
 |\<button>\</button>||
 |\<nav>\</nav>||
-|\<style>\</style>||
+|\<style>\</style>| É usada para declarar estilos (CSS) para um documento.|
 |\<script>\</script>||
 |\<title>\</title>||
 |\<body>\</body>||
